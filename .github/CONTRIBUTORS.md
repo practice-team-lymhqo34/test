@@ -1,6 +1,3 @@
-\# Contributors
+# Contributors
 
-
-
-\- Vadym Prokopiuk 
-
+- Vadym Prokopiuk 
