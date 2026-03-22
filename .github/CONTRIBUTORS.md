@@ -1,3 +1,5 @@
 # Contributors
 
-- Vadym Prokopiuk 
+- Vladyslav Buzhdyhan
+- Maksym Didychuk
+- Vadym Prokopiuk
