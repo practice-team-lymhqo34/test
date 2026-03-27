@@ -4,3 +4,7 @@
 - Maksym Didychuk
 - Vadym Prokopiuk
 - Dima Horinyuk
+- Dmytro Chupak
+
+
+
